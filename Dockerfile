@@ -1,5 +1,4 @@
 FROM tutum/curl:trusty
-MAINTAINER Feng Honglin <hfeng@tutum.co>
 
 # Install InfluxDB
 ENV INFLUXDB_VERSION 0.9.4.2
